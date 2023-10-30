@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.bgcontainer {
+  background-color: #161625;
+
+  background-size: cover;
+  padding: 30px;
+}
+.cowinheading {
+  color: #2cc6c6;
+}
+.logoimgpx {
+  height: 60px;
+  width: 60px;
+  margin: 10px;
+}
+.logoheadingcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.failurecontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
