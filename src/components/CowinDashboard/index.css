@@ -24,4 +24,10 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #161625;
+  height: 100vh;
+}
+.failureimgpx {
+  height: 350px;
+  width: 350px;
 }
